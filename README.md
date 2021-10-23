@@ -1,6 +1,6 @@
 ![](https://github.com/frbenites/frbenites/blob/master/header.png?raw=true)
 
-- 🔭 I’m currently working on my undergrad thesis and some other projects.
+- 🔭 I’m currently working as Analytics Consultant on Media.Monks
 - 🌱 I’m currently learning SQL and Python
 - 👯 I’m looking to collaborate on some R repos.
 - 🤔 I’m looking for help with Shiny apps.
